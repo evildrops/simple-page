@@ -49,6 +49,10 @@ h1 {
     line-height: 250%;
 }
 
+.since ul > li > span {
+    font-weight: bold;
+}
+
 quote {
     line-height: 150%;
 }
