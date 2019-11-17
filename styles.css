@@ -49,15 +49,11 @@ h1 {
 }
 
 .content ul li {
-    padding: 10px;
+  padding: 10px;
 }
 
 .since ul > li > span {
   font-weight: bold;
-}
-
-quote {
-  line-height: 150%;
 }
 
 .subtitle {
@@ -67,12 +63,13 @@ quote {
 
 .headline {
   text-align: center;
+  padding-top: 20px;
 }
 
 footer {
   text-align: center;
-  line-height: 200%;
-}
+  padding-top: 20px;
+  padding-bottom: 40px;
 
 a:link {
   color: #477ca7;
