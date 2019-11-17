@@ -46,7 +46,10 @@ h1 {
   max-width: 590px;
   margin-left: auto;
   margin-right: auto;
-  line-height: 250%;
+}
+
+.content ul li {
+    padding: 10px;
 }
 
 .since ul > li > span {
